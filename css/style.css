@@ -1,12 +1,19 @@
-.intro {
-    background-image: url('assets');
-    text-align: center;
-    justify-content: center;
+body{
+    background-color: cadetblue;
 }
-.about {
-    text-align: center;
-    justify-content: center;
-}
+
 .card  {
     border: none;
+}
+.card-content {
+    background-color:cadetblue;
+}
+#about {
+    text-align: center;
+}
+.btn {
+    border-radius: 10px;
+}
+.myprofileimg {
+    position: absolute;
 }
