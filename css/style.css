@@ -33,18 +33,12 @@ body {
     font-weight: 500;
     padding: 1.5rem;
 }
-
-.card {
-    border: none;
-}
-
-.home {
-    margin-top: 100px;
+.intro {
+    justify-content: center;
     text-align: center;
 }
-
-.myself-img {
-    height: 150px;
-    width: 100px;
+.myprofile {
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
 }
