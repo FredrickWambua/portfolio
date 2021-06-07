@@ -111,12 +111,12 @@ a {
      text-align: center;
      color: white;
  }
-.service .subscribe .contact-info {
-    align-items: center;
-}
 
 li {
     list-style-type: none;
+
+}
+
 }
 .accounts {
     margin-top: 20px;
