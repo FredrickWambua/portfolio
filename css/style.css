@@ -2,16 +2,13 @@
 <<<<<<< HEAD
 
 /* navbar and intro */
-body {
+html {
     margin: 0;
     box-sizing: border-box;
     width: 100%;
     height: 100%;
 }
 
-.navbar .navbar-brand {
-    /* padding-right: 10rem; */
-}
 .navbar-brand {
     padding-left: 5rem;
     padding-right: 15rem;
@@ -47,15 +44,43 @@ body {
     border-radius: 50%;
 }
 /* end of navbar and intro */
+
+/* start of about styling */
+.card  {
+    border: none;
+}
+.about {
+    margin-top: 60px;
+}
+#about {
+    text-align: center;
+    color: gray;
+}
+.btn {
+    border-radius: 10px;
+}
+.myprofileimg {
+    position: absolute;
+}
+.skillsets {
+    margin-top: 60px;
+}
+.skillsets h3 {
+    text-align: center;
+}
+.interests .hobbies .skills {
+    align-items: center;
+}
+/* end of about styling */
+
 .row-2 {
     margin-top: 30px;
 }
-/* .card {
-    border: none;
-} */
 
 .portfolio h1 {
     text-align: center;
+    color: gray;
+    margin-top: 60px;
 }
 .portfolio-text{
     text-align: center;
@@ -69,6 +94,7 @@ a {
 }
 .contact-page h1{
     text-align: center;
+    color: gray;
 }
 
 
