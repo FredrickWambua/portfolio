@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .row-2 {
     margin-top: 30px;
@@ -98,4 +99,33 @@ body {
     width: 300px;
     border-radius: 50%;
 >>>>>>> ft-home
+=======
+/* body{
+    background-color: cadetblue;
+} */
+
+.card  {
+    border: none;
+}
+.card-content {
+    /* background-color:cadetblue; */
+}
+#about {
+    text-align: center;
+}
+.btn {
+    border-radius: 10px;
+}
+.myprofileimg {
+    position: absolute;
+}
+.skillsets {
+    margin-top: 60px;
+}
+.skillsets h3 {
+    text-align: center;
+}
+.interests .hobbies .skills {
+    align-items: center;
+>>>>>>> ft-about
 }
