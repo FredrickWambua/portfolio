@@ -17,4 +17,4 @@ In the case you want to contribute or point an issue, feel free to folk at https
 ## Github pages link
 This portfolio is hosted by github pages as a static webpage therefore, you can get more information on https://fredrickwambua.github.io/portfolio/.
 ## Licence
-This project is licenced under the MIT Licencing. View the link here 
+This project is licenced under the MIT Licencing. View the link here https://github.com/FredrickWambua/portfolio/blob/main/LICENCE.md
