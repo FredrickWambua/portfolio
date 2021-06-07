@@ -1,12 +1,12 @@
-body{
+/* body{
     background-color: cadetblue;
-}
+} */
 
 .card  {
     border: none;
 }
 .card-content {
-    background-color:cadetblue;
+    /* background-color:cadetblue; */
 }
 #about {
     text-align: center;
@@ -16,4 +16,13 @@ body{
 }
 .myprofileimg {
     position: absolute;
+}
+.skillsets {
+    margin-top: 60px;
+}
+.skillsets h3 {
+    text-align: center;
+}
+.interests .hobbies .skills {
+    align-items: center;
 }
