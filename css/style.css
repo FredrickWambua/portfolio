@@ -2,3 +2,13 @@
 /* .row-2 {
     margin-top: 30px;
 } */
+
+.portfolio h1 {
+    text-align: center;
+}
+.portfolio-text{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
